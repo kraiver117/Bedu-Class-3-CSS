@@ -10,3 +10,24 @@
     height: 100px;
     background-color:aqua;
 }
+
+.publish h3{
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #025157;
+}
+
+.publish > p {
+    margin: 20px 0px;
+    color: #343434;
+}
+
+.publish > form {
+    display: flex;
+    margin-top: 10px;
+}
+
+.publish > form p {
+    color: #025157;
+    margin-right: 15px;
+}
